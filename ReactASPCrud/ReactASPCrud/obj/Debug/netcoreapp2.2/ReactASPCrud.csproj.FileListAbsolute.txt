@@ -1,0 +1,16 @@
+D:\Proyectos\ReactASPNET-master\ReactASPCrud\ReactASPCrud\bin\Debug\netcoreapp2.2\appsettings.Development.json
+D:\Proyectos\ReactASPNET-master\ReactASPCrud\ReactASPCrud\bin\Debug\netcoreapp2.2\appsettings.json
+D:\Proyectos\ReactASPNET-master\ReactASPCrud\ReactASPCrud\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+D:\Proyectos\ReactASPNET-master\ReactASPCrud\ReactASPCrud\bin\Debug\netcoreapp2.2\ReactASPCrud.deps.json
+D:\Proyectos\ReactASPNET-master\ReactASPCrud\ReactASPCrud\bin\Debug\netcoreapp2.2\ReactASPCrud.runtimeconfig.json
+D:\Proyectos\ReactASPNET-master\ReactASPCrud\ReactASPCrud\bin\Debug\netcoreapp2.2\ReactASPCrud.runtimeconfig.dev.json
+D:\Proyectos\ReactASPNET-master\ReactASPCrud\ReactASPCrud\bin\Debug\netcoreapp2.2\ReactASPCrud.dll
+D:\Proyectos\ReactASPNET-master\ReactASPCrud\ReactASPCrud\obj\Debug\netcoreapp2.2\ReactASPCrud.csprojAssemblyReference.cache
+D:\Proyectos\ReactASPNET-master\ReactASPCrud\ReactASPCrud\obj\Debug\netcoreapp2.2\ReactASPCrud.RazorAssemblyInfo.cache
+D:\Proyectos\ReactASPNET-master\ReactASPCrud\ReactASPCrud\obj\Debug\netcoreapp2.2\ReactASPCrud.RazorAssemblyInfo.cs
+D:\Proyectos\ReactASPNET-master\ReactASPCrud\ReactASPCrud\obj\Debug\netcoreapp2.2\ReactASPCrud.AssemblyInfoInputs.cache
+D:\Proyectos\ReactASPNET-master\ReactASPCrud\ReactASPCrud\obj\Debug\netcoreapp2.2\ReactASPCrud.AssemblyInfo.cs
+D:\Proyectos\ReactASPNET-master\ReactASPCrud\ReactASPCrud\obj\Debug\netcoreapp2.2\ReactASPCrud.RazorTargetAssemblyInfo.cache
+D:\Proyectos\ReactASPNET-master\ReactASPCrud\ReactASPCrud\bin\Debug\netcoreapp2.2\ReactASPCrud.pdb
+D:\Proyectos\ReactASPNET-master\ReactASPCrud\ReactASPCrud\obj\Debug\netcoreapp2.2\ReactASPCrud.dll
+D:\Proyectos\ReactASPNET-master\ReactASPCrud\ReactASPCrud\obj\Debug\netcoreapp2.2\ReactASPCrud.pdb
